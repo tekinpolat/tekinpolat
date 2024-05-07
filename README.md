@@ -7,10 +7,7 @@ I'm `Tekin POLAT` a Full Stack Web Developer
 [![Twitter Badge](https://img.shields.io/badge/-@polattekin2121-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/polattekin2121)](https://twitter.com/polattekin2121)
 
 
-<!-- TODO: Add last video link -->
-- [tekinpolat.com](http://tekinpolat.com) 
 - 🔭 I’m currently working at freelancer
-- :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for help with Outstanding Video ideas.
 - 📫 How to reach me: tekin.polat.dpu@gmail.com.
 - 📞 +90 543 551 75 26
